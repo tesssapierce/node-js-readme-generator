@@ -23,7 +23,7 @@
   To use the product, after it has been cloned, open the index.js file in Visual Studio Code or a similar code editor.  Run the index.js file in your integrated terminal, and answer the prompts as you need.  You will now get a new file named "sample.md" populated in the same file structure as where you saved the index.js file.
 
   ## License
-  APACHE2.0
+
 
   ## Contributors
   
